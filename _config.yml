@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Matthew D. McHugh, PhD, JD, MPH, RN, FAAN"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Nursing, Health Services, and Policy Researcher at the Center for Health Outcomes and Policy Research, University of Pennsylvania"
+  location         : "University of Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=McHugh%20MD%5BAuthor%5D&cauthor=true&cauthor_uid=21289340"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5VOnGdMAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mchughmatthew"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1263-0697"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "matthewdmchugh"
   vine             :
   weibo            :
   xing             :
