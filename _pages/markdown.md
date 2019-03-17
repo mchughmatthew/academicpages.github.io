@@ -1,10 +1,10 @@
 ---
-permalink: /contact/
-title: "Contact"
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
 redirect_from: 
   - /md/
-  - /contact.html
+  - /markdown.html
 ---
 
 ## University of Pennsylvania School of Nursing 
