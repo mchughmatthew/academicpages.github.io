@@ -75,13 +75,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :"UA-136407308-1"
 
 
 # Site Author
 author:
   name             : "Matthew D. McHugh, PhD, JD, MPH, RN, FAAN"
-  avatar           : "headshot.jpeg"
+  avatar           : "bio-photo-2.jpg"
   bio              : "Nursing, Health Services, and Policy Researcher at the Center for Health Outcomes and Policy Research, University of Pennsylvania"
   location         : "University of Pennsylvania"
   employer         :
