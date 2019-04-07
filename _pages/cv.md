@@ -11,11 +11,10 @@ redirect_from:
 
 Education
 ======
-{\textit {Northeastern University School of Law} \hfill 2006 \newline
-\hspace*{0.5cm} {\textbf {JD}} · Law
+Northeastern University School of Law JD · Law 2006 
 
-{\textit {University of Pennsylvania} \hfill 2004 \newline
-\hspace*{0.5cm} {\textbf {PhD}} · Nursing 
+University of Pennsylvania PhD · Nursing 2004 
+ 
 
 {\textit {Harvard University}  \hfill	2003 \newline
 \hspace*{0.5cm} {\textbf {MPH}} · Public Health (Health Policy and Management)
