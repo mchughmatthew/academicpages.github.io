@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[Center for Health Outcomes and Policy Research](https://www.nursing.upenn.edu/chopr/)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Current positions
+Link to CV
 ======
 
 Current positions
 ======
-Independence Foundation Chair and Professor of Nursing · University of Pennsylvania \\
-Associate Director · Center for Health Outcomes and Policy Research, University of Pennsylvania School of Nursing \\
-Faculty Director · Dual Degree Program in Nursing and Health Care Management · Penn Nursing/The Wharton School \\
-Adjunct Faculty · Queensland University of Technology, Queensland, Australia \\
+*Independence Foundation Chair and Professor of Nursing* · University of Pennsylvania \\
+*Associate Director* · [Center for Health Outcomes and Policy Research](https://www.nursing.upenn.edu/chopr/), University of Pennsylvania School of Nursing \\
+*Faculty Director* · [Dual Degree Program in Nursing and Health Care Management](https://www.nursing.upenn.edu/nhcm/) · Penn Nursing/The Wharton School \\
+*Adjunct Faculty* · Queensland University of Technology, Queensland, Australia
 
 Other appointments at Penn
 + Senior Fellow · [Leonard Davis Institute of Health Economics](https://ldi.upenn.edu/expert/matthew-d-mchugh-phd-jd-mph) 
