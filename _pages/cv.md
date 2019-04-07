@@ -9,21 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+Current positions
+======
+
+
 Education
 ======
-Northeastern University School of Law JD · Law 2006 
+*Northeastern University School of Law* · **JD** · Law · 2006 
 
-University of Pennsylvania PhD · Nursing 2004 
+*University of Pennsylvania* · **PhD** · Nursing · 2004 
  
-
-{\textit {Harvard University}  \hfill	2003 \newline
-\hspace*{0.5cm} {\textbf {MPH}} · Public Health (Health Policy and Management)
+*Harvard University* · **MPH** · Public Health (Health Policy and Management) · 2003 
 	
-{\textit {University of Pennsylvania} \hfill 1998 \newline
-\hspace*{0.5cm} {\textbf {MSN}} · Family Nurse Practitioner/Psych. Clinical Nurse Specialist
+*University of Pennsylvania* · **MSN** · Family Nurse Practitioner and Psych. Clinical Nurse Specialist · 1998
 
-{\textit {Gwynedd-Mercy University} \hfill	1996 \newline
-\hspace*{0.5cm} {\textbf {BSN}} · Nursing \newline
+*Gwynedd-Mercy University* · **BSN** · Nursing · 1996 
+
 
 Work experience
 ======
@@ -52,18 +53,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
