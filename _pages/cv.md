@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+{\textit {Northeastern University School of Law} \hfill 2006 \newline
+\hspace*{0.5cm} {\textbf {JD}} · Law
+
+{\textit {University of Pennsylvania} \hfill 2004 \newline
+\hspace*{0.5cm} {\textbf {PhD}} · Nursing 
+
+{\textit {Harvard University}  \hfill	2003 \newline
+\hspace*{0.5cm} {\textbf {MPH}} · Public Health (Health Policy and Management)
+	
+{\textit {University of Pennsylvania} \hfill 1998 \newline
+\hspace*{0.5cm} {\textbf {MSN}} · Family Nurse Practitioner/Psych. Clinical Nurse Specialist
+
+{\textit {Gwynedd-Mercy University} \hfill	1996 \newline
+\hspace*{0.5cm} {\textbf {BSN}} · Nursing \newline
 
 Work experience
 ======
