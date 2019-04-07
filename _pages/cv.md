@@ -16,10 +16,10 @@ Associate Director · Center for Health Outcomes and Policy Research, University
 Faculty Director · Dual Degree Program in Nursing and Health Care Management · Penn Nursing/The Wharton School \\
 Adjunct Faculty · Queensland University of Technology, Queensland, Australia \\
 Other appointments at Penn \\
-+ Senior Fellow · Leonard Davis Institute of Health Economics \\
-+ Research Associate · Penn Population Studies Center \\
-+ Faculty Fellow · Penn Institute on Urban Research \\
-+Senior Fellow · Center for Public Health Initiatives \\
++ Senior Fellow · [Leonard Davis Institute of Health Economics](https://ldi.upenn.edu/expert/matthew-d-mchugh-phd-jd-mph) \\
++ Research Associate · [Penn Population Studies Center](https://www.pop.upenn.edu/bio/matthew-d-mchugh) \\
++ Faculty Fellow · [Penn Institute on Urban Research](https://penniur.upenn.edu/people) \\
++Senior Fellow · [Center for Public Health Initiatives](http://www.cphi.upenn.edu/) \\
 
 Education
 ======
