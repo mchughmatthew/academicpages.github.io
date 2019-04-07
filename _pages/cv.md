@@ -11,15 +11,19 @@ redirect_from:
 
 Current positions
 ======
+
+Current positions
+======
 Independence Foundation Chair and Professor of Nursing · University of Pennsylvania \\
 Associate Director · Center for Health Outcomes and Policy Research, University of Pennsylvania School of Nursing \\
 Faculty Director · Dual Degree Program in Nursing and Health Care Management · Penn Nursing/The Wharton School \\
 Adjunct Faculty · Queensland University of Technology, Queensland, Australia \\
-Other appointments at Penn \\
-+ Senior Fellow · [Leonard Davis Institute of Health Economics](https://ldi.upenn.edu/expert/matthew-d-mchugh-phd-jd-mph) \\
-+ Research Associate · [Penn Population Studies Center](https://www.pop.upenn.edu/bio/matthew-d-mchugh) \\
-+ Faculty Fellow · [Penn Institute on Urban Research](https://penniur.upenn.edu/people) \\
-+Senior Fellow · [Center for Public Health Initiatives](http://www.cphi.upenn.edu/) \\
+
+Other appointments at Penn
++ Senior Fellow · [Leonard Davis Institute of Health Economics](https://ldi.upenn.edu/expert/matthew-d-mchugh-phd-jd-mph) 
++ Research Associate · [Penn Population Studies Center](https://www.pop.upenn.edu/bio/matthew-d-mchugh) 
++ Faculty Fellow · [Penn Institute on Urban Research](https://penniur.upenn.edu/people) 
++ Senior Fellow · [Center for Public Health Initiatives](http://www.cphi.upenn.edu/)
 
 Education
 ======
