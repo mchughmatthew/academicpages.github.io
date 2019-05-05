@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-##Health services and policy researcher focusing on the impact of nurses and nursing on patient outcomes, quality of care, and costs. 
+Health services and policy researcher focusing on the impact of nurses and nursing on patient outcomes, quality of care, and costs. 
 ------
 * Independence Chair for Nursing Education and Professor of Nursing at the [University of Pennsylvania School of Nursing](https://www.nursing.upenn.edu/). 
 * Associate Director, [Center for Health Outcomes and Policy Research](https://www.nursing.upenn.edu/chopr/)
